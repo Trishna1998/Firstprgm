@@ -34,7 +34,7 @@ namespace Firstprgm
             Console.WriteLine(x);
             Console.WriteLine(d);
             Console.ReadLine();
-
+            Console.WriteLine("hi");
 
 
 
