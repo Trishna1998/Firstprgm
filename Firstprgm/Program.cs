@@ -36,6 +36,8 @@ namespace Firstprgm
             Console.ReadLine();
             Console.WriteLine("hi");
 
+            Console.WriteLine("hello");
+
 
 
         }
